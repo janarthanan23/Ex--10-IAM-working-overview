@@ -3,8 +3,6 @@
 This repository provides a comprehensive overview of Identity and Access Management (IAM), focusing on its purpose, components, and implementation practices in cloud and enterprise environments. The aim is to educate developers, system admins, and security teams on IAM essentials and offer a hands-on guide for setting up and managing IAM policies.
 
 ```
-Name : JANARTHANAN S
-Reg.No: 212222040058
 ```
 
 ## Table of Contents
